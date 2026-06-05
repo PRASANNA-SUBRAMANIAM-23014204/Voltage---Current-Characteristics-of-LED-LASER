@@ -62,9 +62,6 @@ Key points:
 <img width="1242" height="1445" alt="image" src="https://github.com/user-attachments/assets/5d60c64c-565d-4a7f-9193-afc6fff044e6" />
 
 
-## MODEL GRAPH
-<img width="917" height="1430" alt="image" src="https://github.com/user-attachments/assets/388a2a02-c77d-4a48-b474-e15091d46262" />
-<img width="1303" height="1600" alt="image" src="https://github.com/user-attachments/assets/d4ae5135-7d6d-4c8c-ad4d-05ac3c847b00" />
 
 
 ---
